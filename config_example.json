@@ -1,0 +1,9 @@
+{
+  "SMTP_HOST": "smtp.gmail.com",
+  "SMTP_PORT": 587,
+  "SMTP_USER": "your_email@example.com",
+  "SMTP_PASSWORD": "YOUR_APP_PASSWORD_HERE",
+  "FROM_NAME": "Your Name",
+  "SUBJECT_TEMPLATE": "Payment reminder for {name}",
+  "BODY_TEMPLATE": "Hello {name},\n\nThis is a friendly reminder that your payment of {amount} is due on {due_date}.\n\nBest regards,\nYour Company"
+}

@@ -1,0 +1,4 @@
+name,email,amount,due_date
+Alice Smith,alice@example.com,120.50,2025-12-01
+Bob Johnson,bob@example.com,89.99,2025-12-05
+Charlie Brown,charlie@example.com,200.00,2025-12-10
