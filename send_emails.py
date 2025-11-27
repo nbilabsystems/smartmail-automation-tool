@@ -129,3 +129,4 @@ if __name__ == "__main__":
     LOG_PATH = "logs/send_log.csv"           # Log file path
 
     send_all_emails(CONFIG_PATH, CONTACTS_PATH, LOG_PATH)
+    
